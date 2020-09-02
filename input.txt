@@ -1,0 +1,21 @@
+insert Megan Jones Nilgiri EE 6.5
+insert Sue Li Nilgiri CS 6.5
+insert Roger Malone Nilgiri CL 6.5
+insert Vincent Crabbe Nilgiri CL 6.5
+insert Michael Corner Nilgiri CL 6.5
+insert Roger Davis Nilgiri CL 6.5
+insert Theodore Nott Nilgiri CL 6.5
+insert Wayne Hopkins Nilgiri CL 6.5
+insert Way deHopkins Nilgiri CL 6.5
+address Megan Jones
+address Sue Li
+address Roger Malone
+address Vincent Crabbe
+address Michael Corner
+address Roger Davis
+address Theodore Nott
+address Wayne Hopkins
+address Way deHopkins
+update Roger Davis Satpura CL 6.5
+get Roger Malone
+get Roger Davis
